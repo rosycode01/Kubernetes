@@ -1,1 +1,1 @@
-# Kubernetes
+This repository contains resources for deploying and managing applications on Kubernetes. It includes configuration files, examples for scaling, networking, storage, and pod management. Use the provided YAML files and scripts to set up and maintain Kubernetes clusters. Contribute by forking, making changes, and submitting pull requests for improvements.
